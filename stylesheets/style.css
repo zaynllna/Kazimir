@@ -1,0 +1,75 @@
+@import "reset.css";
+@import "layout.css";
+/* @font-face {
+  font-family: "Kazimir";
+  src: url("/fonts/Kazimir.otf") format("otf");
+  src: url("fonts/Kazimir Italic.otf") format("otf");
+  src: url("fonts/Kazimir Medium.otf") format("otf");
+  src: url("fonts/Kazimir Medium Italic.otf") format("otf");
+  src: url("fonts/Kazimir Light.otf") format("otf");
+  src: url("fonts/Kazimir Light Italic.otf") format("otf");
+  src: url("fonts/Kazimir Bold.otf") format("otf");
+  src: url("fonts/Kazimir Bold Italic.otf") format("otf");
+  src: url("fonts/Kazimir Black.otf") format("otf");
+  src: url("fonts/Kazimir Black Italic.otf") format("otf");
+} */
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Light.otf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Medium.otf");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Bold.otf");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Black.otf");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Light Italic.otf");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Italic.otf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Medium Italic.otf");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Bold Italic.otf");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Kazimir";
+  src: url("fonts/Kazimir Black Italic.otf");
+  font-weight: 900;
+  font-style: italic;
+}
